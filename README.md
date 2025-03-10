@@ -20,10 +20,7 @@
     <li> More to come..</li>
 </ul>
 
-<h2>Acknowledgments</h2>
 
-<b> C#: https://bit.ly/csharp-certifications<b>
-<br>
 
 
 <h2>Photo</h2>
