@@ -1,4 +1,4 @@
-<h1>ViataMea Mobile Game - Unity C# Project</h1>
+<h1>Life Simulator Mobile Game using Unity in C Sharp</h1>
 <br>
 <h3>Features</h3>
 <ul>
